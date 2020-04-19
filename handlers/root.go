@@ -6,7 +6,7 @@ import (
 
 	"github.com/kimihito/tohatebu/models"
 	"github.com/kimihito/tohatebu/services"
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 )
 
 // Root hoge
